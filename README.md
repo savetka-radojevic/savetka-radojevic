@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in software quality assurance.
 
-- 🌱 I’m currently learning automation as wll as html, css and javascript.
+- 🌱 I’m currently learning automation as well as Html, CSS and JavaScript.
  
 - 💞️ I’m looking to collaborate on real projects and learn more.
 
